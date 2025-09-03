@@ -1,1 +1,1 @@
-# Linguagens-formais-e-automatass
+# Linguagens-formais-e-automatas
